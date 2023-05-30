@@ -5,7 +5,7 @@
     "dbaeumer.vscode-eslint",
     "ritwickdey.LiveServer",
     "stylelint.vscode-stylelint",
-    "ms-ceintl.vscode-langage-pack-fr"
+    "ms-ceintl.vscode-language-pack-fr"
     // Additional Extensions Here
   ],
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
