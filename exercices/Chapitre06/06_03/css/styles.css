@@ -203,7 +203,6 @@ body {
 }
 
 #category nav ul li a {
-    display: block;
     background-color: #FFF;
     color: #00368C;
     text-decoration: none;
