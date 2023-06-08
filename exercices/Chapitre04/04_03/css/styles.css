@@ -61,10 +61,6 @@ body {
     margin: 0;
 }
 
-#mainNav ul li {
-    position: relative;
-}
-
 #mainNav ul li ul {
     overflow: hidden;
 }
