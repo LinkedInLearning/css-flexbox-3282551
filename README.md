@@ -31,8 +31,8 @@ Aucune installation n'est nécessaire pour suivre cette formation via CodeSpaces
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/css-maitriser-les-flexbox
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEfGba_mRnCzg/learning-public-crop_675_1200/0/1689945435313?e=2147483647&v=beta&t=sVU0dSKHgunvt0mgTrFJk6xBF5xVKW4h_WH1jKXswgc
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 
 [1]: # (End of FR-Instruction ###############################################################################################)
